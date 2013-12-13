@@ -1,0 +1,24 @@
+{
+  "name": "hubot-stackoverflow",
+  "version": "0.0.1",
+  "description": "Retrieves and displays StackOverflow reputation",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "request": "~2.29.0"
+  },
+  "keywords": [
+    "Hubot, StackOverflow"
+  ],
+  "author": "Kyle Kelly, Ruben Orduz",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
