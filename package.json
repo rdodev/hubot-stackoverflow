@@ -7,6 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
+    "type": "git",
+    "url": "https://github.com/rdodev/hubot-stackoverflow.git"
   },
   "dependencies": {
     "coffee-script": "~1.6",
@@ -18,7 +20,7 @@
   "author": "Kyle Kelly, Ruben Orduz",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/rdodev/hubot-stackoverflow/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/rdodev/hubot-stackoverflow"
 }
